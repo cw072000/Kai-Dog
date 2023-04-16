@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background:#b5838d;
+    color:#6d6875;
+    
+}
+
+.dog-img {
+    width: 100px;
+    background-size:cover;
+    border: 5px solid #6d6875;
+    background-image: url("IMG_2022.JPG");
+    height:200px;
+    width:100px;
+    margin: 0 auto;
+    border-radius:10px;
+}
+
+.dog-img:hover {
+    background-image: url("IMG_2072.JPG");
+}
